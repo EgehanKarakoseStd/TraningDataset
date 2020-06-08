@@ -1,0 +1,110 @@
+Alstonia Scholaris 
+Arjun
+Bael
+Basil
+Cedrus deodara
+Cercis chinensis
+Chimonanthus praecox
+Chinar 
+Cinnamomum japonicum
+Citrus X sinensis
+Cucumis sativus
+Gauva
+Ginkgo biloba
+Indigofera tinctoria
+Jamun
+Jatropha
+Lemon
+Magnolia grandiflora
+Mango
+Mentha
+Mespilus germanica
+Nerium oleander
+Olea europaea
+Petroselinum crispum
+Phoebe nanmu
+Phyllostachys edulis
+Podocarpus macrophyllus
+Pomegranate
+Pongamia Pinnata
+Populus canadensis
+Prunus persica
+Viburnum awabuki
+abies_concolor
+abies_nordmanniana
+acer_campestre
+acer_ginnala
+acer_griseum
+acer_negundo
+acer_platanoides
+acer_rubrum
+acer_saccharinum
+acer_saccharum
+aesculus_glabra
+ailanthus_altissima
+albizia_julibrissin
+amelanchier_canadensis
+betula_alleghaniensis
+betula_lenta
+betula_nigra
+broussonettia_papyrifera
+carpinus_caroliniana
+carya_cordiformis
+carya_glabra
+carya_ovata
+carya_tomentosa
+catalpa_speciosa
+cedrus_atlantica
+cedrus_libani
+celtis_occidentalis
+cercidiphyllum_japonicum
+cercis_canadensis
+chamaecyparis_pisifera
+chamaecyparis_thyoides
+chionanthus_virginicus
+cladrastis_lutea
+cornus_kousa
+cornus_mas
+corylus_colurna
+crataegus_crus-galli
+crataegus_laevigata
+crataegus_pruinosa
+crataegus_viridis
+cryptomeria_japonica
+cydonia oblonga
+evodia_daniellii
+ficus_carica
+fragaria
+fraxinus_nigra
+gleditsia_triacanthos
+grape
+ilex_opaca
+juglans_cinerea
+juniperus_virginiana
+larix_decidua
+liquidambar_styraciflua
+liriodendron_tulipifera
+malus_baccata
+malus_coronaria
+malus_floribunda
+malus_pumila
+metasequoia_glyptostroboides
+morus_alba
+nyssa_sylvatica
+ostrya_virginiana
+paulownia_tomentosa
+picea_orientalis
+picea_pungens
+pinus
+prunus_pensylvanica
+prunus_sargentii
+prunus_virginiana
+pseudolarix_amabilis
+quercus_velutina
+quercus_virginiana
+rosa
+salix
+syringa_reticulata
+taxodium_distichum
+ulmus
+zantedeschia
